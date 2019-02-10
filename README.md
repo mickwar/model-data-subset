@@ -7,7 +7,7 @@ And by *category*, we mean a factor level for some covariate.
 How would a model handle situations where the relationship between inputs and outputs varies widely depending on the factor level?
 What if the input-output relationship were the same across factor levels, but the marginal variance of covariates from one factor level were 10 times that of another?
 Or rather, what if the covariates were sampled from different distributions per factor level?
-In these cases, it may be helpful to know whether the model breaks with the inclusion of the peculiar data subset---the subset associated with the offending factor level, the so-called *bad* data.
+In these cases, it may be helpful to know whether the model breaks with the inclusion of the peculiar data subset&mdash;the subset associated with the offending factor level, the so-called *bad* data.
 
 We explored several models under a variety of data configurations.
 
